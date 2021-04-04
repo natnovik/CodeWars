@@ -20,6 +20,6 @@
 7 kyu https://www.codewars.com/kata/shortest-word
 7 kyu https://www.codewars.com/kata/square-every-digit
 
-**Материалы
+*Материалы
 Codewars. Онлайн самоучитель по программированию
-Решение задач с Codewars. Level 8**
+Решение задач с Codewars. Level 8*
